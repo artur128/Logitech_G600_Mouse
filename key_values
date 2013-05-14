@@ -1,0 +1,20 @@
+
+0x00 -> keyset 2byte offset
+
+0x01 -> Button1
+0x02 -> Button2
+0x03 -> Button3
+0x04 -> Button4
+0x05 -> Button5
+0x11 -> resolution increment
+0x12 -> resolution decrement
+0x13 -> resolutionswitch
+0x14 -> g-mode
+0x15 -> resolution change
+0x16 -> dpi default
+0x17 -> G-switch
+
+
+2byte offset
+
+0x59 -> numpad1
